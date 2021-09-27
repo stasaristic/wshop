@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(lightblue ,
+    rgb(215, 243, 252) );  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+nav{
+    background-image: linear-gradient(rgb(239, 250, 253) ,
+    rgb(190, 222, 236) );
+} 
+.pimg{
+    width : 5rem;
+    height: 5rem;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+.cimage{
+    aspect-ratio: 1/1;
+    width: 30rem;
+    height: 30rem;
+    object-fit: contain;
+}
+.product-image{
+    object-fit: contain !important;
+}
