@@ -1,2 +1,2 @@
 # wshop
-PIA projekat
+Programming internet applications project
